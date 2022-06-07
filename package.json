@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
-    "node-sass": "^7.0.1"
+    "node-sass": "^7.0.1",
+    "query-string": "^7.1.1"
   }
 }
